@@ -46,9 +46,7 @@ def word_finder(word, grid, grid_size):
                                 break
                             else:
                                 if k == word_length - 1 and char == word[-1]:
-                                    # if word not in found_words:
                                     return word
-                                    # found_words.append(word)
 
 
 @click.command()
