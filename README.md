@@ -9,4 +9,5 @@
 Example run of the program looks like this: 
    
    `python WordSeacher.py --filename words.txt --grid_size 15`
+
 One can also run the program without parameters in which case the default text file; word.txt and grid size of 15 are used
